@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zivotinje_moje.Program" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Dalmatiner" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Dalmatiner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Krava" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Krava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Macka" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Macka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.NeGlasamSe" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\NeGlasamSe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Pajcek" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Pajcek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Pajcek1" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Pajcek1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.Pas" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\Pas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zivotinje_moje.Zivotinje.zivotinje" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Zivotinje\zivotinje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

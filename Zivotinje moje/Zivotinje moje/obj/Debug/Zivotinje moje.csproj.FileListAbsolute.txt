@@ -1,0 +1,6 @@
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\bin\Debug\Zivotinje moje.exe.config
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\obj\Debug\Zivotinje moje.csprojResolveAssemblyReference.cache
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\bin\Debug\Zivotinje moje.exe
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\bin\Debug\Zivotinje moje.pdb
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\obj\Debug\Zivotinje moje.exe
+D:\Faks\objektno vjezbanje\Vjezbanje 3. kolokvij\Zivotinje moje\Zivotinje moje\obj\Debug\Zivotinje moje.pdb
