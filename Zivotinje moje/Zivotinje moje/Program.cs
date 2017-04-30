@@ -21,6 +21,7 @@ namespace Zivotinje_moje
             zoo.Add(new Pajcek("Đoni"));
             zoo.Add(new Pajcek1("Đoni1"));
             zoo.Add(new NeGlasamSe("Ja se ne glasam : "));
+            zoo.Add(new Macka("Miro"));
             
 
 
